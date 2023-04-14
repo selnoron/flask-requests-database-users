@@ -1,3 +1,8 @@
+# virtual workplace
 env/
+
+# cache
 __pycache__/
+
+# useless files
 client/
